@@ -98,4 +98,4 @@ This project is created for educational purposes as part of KFUPM coursework.
 
 - **Email**: [saiftaheralsadah@gmail.com]
 - **GitHub**: [PwnSaif](https://github.com/PwnSaif)
-- **LinkedIn**: [Your LinkedIn]([#saifalsadah](https://www.linkedin.com/in/saifalsadah/))
+- **LinkedIn**: [SaifAlsadah](https://www.linkedin.com/in/saifalsadah/)
