@@ -34,11 +34,10 @@ portfolio/
 │   └── styles.css
 ├── js/
 │   └── script.js
-├── assets/
-│   └── images/
 ├── docs/
 │   ├── ai-usage-report.md
 │   └── technical-documentation.md
+├── .gitignore
 └── README.md
 ```
 
@@ -54,12 +53,12 @@ portfolio/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/PwnSaif/STUDENTID-SaifAlsadah-assignment1.git
+   git clone git clone https://github.com/SaifKFUPM/202257480-Saif_Alsadah-assignment1.git
    ```
 
 2. Navigate to the project folder:
    ```bash
-   cd STUDENTID-SaifAlsadah-assignment1
+   cd 202257480-SaifAlsadah-assignment1
    ```
 
 3. Open `index.html` in your browser, or use Live Server in VS Code:
